@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hms.hospital.controller.DutyShiftControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.432 s -- in com.hms.hospital.controller.DutyShiftControllerTest

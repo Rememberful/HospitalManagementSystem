@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hms.hospital.controller.DepartmentControllerTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.724 s -- in com.hms.hospital.controller.DepartmentControllerTest

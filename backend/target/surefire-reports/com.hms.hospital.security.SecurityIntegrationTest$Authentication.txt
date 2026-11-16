@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hms.hospital.security.SecurityIntegrationTest$Authentication
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.710 s -- in com.hms.hospital.security.SecurityIntegrationTest$Authentication
